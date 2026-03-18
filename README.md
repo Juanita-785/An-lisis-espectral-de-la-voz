@@ -32,13 +32,19 @@ Este proyecto contiene el código y la información para comprender el espectro 
 **Importancia clínica del jitter y shimmer en el análisis de la voz.**
 
 ## Resultados
-### Señales de voz de las 3 mujeres
+### Señales de voz de las mujeres
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0017eaf1-fe7f-43d5-a2b8-d343241e8ef5" width="300"/>
   <img src="https://github.com/user-attachments/assets/dbf3e8b8-a23b-4952-b4b8-54d938e330c5" width="300"/>
   <img src="https://github.com/user-attachments/assets/e90d05ff-4bd8-4264-a98d-a142a196b892" width="300"/>
 </p>
 
+### Señales de voz de los hombres
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3198dfe9-711b-4a83-a416-e6ec3e1bd27f" width="300"/>
+  <img src="https://github.com/user-attachments/assets/84ff3119-42e4-4150-8aea-12b7f719af9e" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d350be9a-aeee-4e1e-8aca-c18f78888d98" width="300"/>
+</p>
 
 ## Calculos manuales
 

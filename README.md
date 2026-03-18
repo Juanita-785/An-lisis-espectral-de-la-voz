@@ -18,7 +18,8 @@ Este proyecto contiene el código y la información para comprender el espectro 
 
 ### Parte B
 <img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/07ebdafb-9d42-4bb9-88c8-54db115caf42" />
-<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/39d720b8-17c0-4771-be6c-0e3323673675" />
+<img width="1024" height="369" alt="44" src="https://github.com/user-attachments/assets/ddaac546-3567-4bae-bdd0-d11454d94b5a" />
+
 
 ### Parte C
 

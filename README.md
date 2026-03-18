@@ -91,10 +91,6 @@ Este proyecto contiene el código y la información para comprender el espectro 
   <img src="https://github.com/user-attachments/assets/f841da02-c105-4bac-a051-a6d2ba0b2000""  width="300"/>
 </p>
 
-## Cálculos manuales
-
-### Filtro 
-
 ## Análisis Estadístico
 
 ## Análisis de Resultados:

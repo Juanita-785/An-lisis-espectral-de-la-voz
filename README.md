@@ -33,8 +33,12 @@ Este proyecto contiene el código y la información para comprender el espectro 
 ## Análisis Estadístico
 
 ## Análisis de Resultados:
+Evalúe si existen diferencias estadísticamente significativas entre los valores de los parámetros espectrales pertenecientes a señales de voz masculinas y femeninas.
+
+Ofrezca posibles explicaciones desde la fisiología humana que justifiquen diferencias o semejanzas entre los parámetros espectrales de cada género.
 
 ## Conclusión 
+Utilidad y posibles escenarios de aplicación de las herramientas y características espectrales empleadas.
 
 ## Discusión
 

@@ -13,8 +13,12 @@ Este proyecto contiene el código y la información para comprender el espectro 
 ## Diagrama de flujo 
 
 ### Parte A
+<img width="1024" height="768" alt="1" src="https://github.com/user-attachments/assets/3714d795-4e5f-49ea-b165-22283c9aaa0f" />
+<img width="1024" height="768" alt="2" src="https://github.com/user-attachments/assets/ff12c81e-5eed-4623-9f7c-04b961845a23" />
 
 ### Parte B
+<img width="1024" height="768" alt="3" src="https://github.com/user-attachments/assets/07ebdafb-9d42-4bb9-88c8-54db115caf42" />
+<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/39d720b8-17c0-4771-be6c-0e3323673675" />
 
 ### Parte C
 
@@ -26,6 +30,7 @@ Este proyecto contiene el código y la información para comprender el espectro 
 
 **Importancia clínica del jitter y shimmer en el análisis de la voz.**
 
+## Resultados 
 ## Calculos manuales
 
 ### Filtro 

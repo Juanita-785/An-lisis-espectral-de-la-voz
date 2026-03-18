@@ -4,10 +4,10 @@
 ## Descripción
 Este proyecto contiene el código y la información para comprender el espectro de la voz, además de analizar y caracterizar señales de voz con ayuda de la transformada de Fourier.
 
-## Propósito 
+## Propósito //Shara
 <p align="justify">
 
-## Metodología 
+## Metodología // Juanita
 <p align="justify">
   
 ## Diagrama de flujo 
@@ -23,13 +23,13 @@ Este proyecto contiene el código y la información para comprender el espectro 
 
 ### Parte C
 
-**¿Qué diferencias se observan en la frecuencia fundamental?**
+**¿Qué diferencias se observan en la frecuencia fundamental?** //Juanita
 
-**¿Qué otras diferencias notan en términos de brillo, media o intensidad?**
+**¿Qué otras diferencias notan en términos de brillo, media o intensidad?** //Shara
 
-**Comportamiento de la voz en hombres y mujeres a partir de los análisis realizados.**
+**Comportamiento de la voz en hombres y mujeres a partir de los análisis realizados.** // Juanita
 
-**Importancia clínica del jitter y shimmer en el análisis de la voz.**
+**Importancia clínica del jitter y shimmer en el análisis de la voz.** //Juanita
 
 ## Resultados
 ### Señales de voz de las mujeres
@@ -91,18 +91,18 @@ Este proyecto contiene el código y la información para comprender el espectro 
   <img src="https://github.com/user-attachments/assets/f841da02-c105-4bac-a051-a6d2ba0b2000""  width="300"/>
 </p>
 
-## Análisis Estadístico
+## Análisis Estadístico  //Shara
 
-## Análisis de Resultados:
+## Análisis de Resultados: //Juanita
 Evalúe si existen diferencias estadísticamente significativas entre los valores de los parámetros espectrales pertenecientes a señales de voz masculinas y femeninas.
 
 Ofrezca posibles explicaciones desde la fisiología humana que justifiquen diferencias o semejanzas entre los parámetros espectrales de cada género.
 
-## Conclusión 
+## Conclusión //Juanita
 Utilidad y posibles escenarios de aplicación de las herramientas y características espectrales empleadas.
 
 ## Discusión
 
-**¿Cómo es la frecuencia fundamental de la densidad espectral de potencia asociada a una señal de voz masculina con respecto a la que se obtiene a partir de una señal de voz femenina, mayor o menor? ¿Qué hay del valor RMS?**
+**¿Cómo es la frecuencia fundamental de la densidad espectral de potencia asociada a una señal de voz masculina con respecto a la que se obtiene a partir de una señal de voz femenina, mayor o menor? ¿Qué hay del valor RMS?** //Shara
 
-**¿Qué limitaciones plantea el uso de características como shimmer y jitter para la detección de patologías como disartrias y afasias?**
+**¿Qué limitaciones plantea el uso de características como shimmer y jitter para la detección de patologías como disartrias y afasias?** //Juanita

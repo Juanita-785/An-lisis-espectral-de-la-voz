@@ -54,12 +54,26 @@ Este proyecto contiene el código y la información para comprender el espectro 
   <img src="https://github.com/user-attachments/assets/3f2c7cb7-87c9-40ff-a35e-fb1918c4670a" width="300"/>
 </p>
 
-### Transformadas de Fourier 
 #### Hombres
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b8badd49-9050-459c-8cef-5e3fa6afb1f0" width="300"/>
   <img src="https://github.com/user-attachments/assets/da03834c-5bd6-4cf5-820f-87eeef92c13c" width="300"/>
   <img src="https://github.com/user-attachments/assets/0825aec0-b0b9-459b-bb21-43b32d82b26d" width="300"/>
+</p>
+
+### Señales filtradas
+#### Mujeres
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/930c7e35-bb29-43bb-9df4-4927ce7a7253" width="300"/>
+  <img src="https://github.com/user-attachments/assets/04ea7a35-2615-463b-84bd-69da778f7e7d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/df77c78d-88e3-4fd1-b5cf-784fabb6e368" width="300"/>
+</p>
+
+#### Hombres
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de2da697-2767-44f3-a759-8acf52bcdfcc" width="300"/>
+  <img src="https://github.com/user-attachments/assets/782f6129-3d57-4563-b250-2f263f3021a8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c26b7e90-f115-4582-bbf4-0d237505f497"  width="300"/>
 </p>
 
 

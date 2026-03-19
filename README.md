@@ -92,12 +92,15 @@ Este proyecto contiene el código y la información para comprender el espectro 
 </p>
 
 ## Análisis Estadístico  //Shara
-![fo](https://github.com/user-attachments/assets/a8d1eeb9-89fe-4ef9-a1aa-014515129c44)
-
-![snr](https://github.com/user-attachments/assets/1efc86a8-421c-4bcb-a686-047f9d59917e)
-
-![jitter](https://github.com/user-attachments/assets/c749333b-32f1-404f-a667-e7b6cbe85e3f)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8d1eeb9-89fe-4ef9-a1aa-014515129c44" width="250"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1efc86a8-421c-4bcb-a686-047f9d59917e" width="250"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c749333b-32f1-404f-a667-e7b6cbe85e3f" width="250"/>
+</p>
 ## Análisis de Resultados: //Juanita
 Evalúe si existen diferencias estadísticamente significativas entre los valores de los parámetros espectrales pertenecientes a señales de voz masculinas y femeninas.
 

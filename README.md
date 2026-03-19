@@ -51,6 +51,7 @@ Shimmer_{rel} =
 $$
 <p align="justify">
 Finalmente en base a todos los resultados obtenidos se llevó a cabo el respectivo análisis con el fin de relacionar los datos teóricos con los prácticos.
+  
 ## Diagrama de flujo 
 
 ### Parte A

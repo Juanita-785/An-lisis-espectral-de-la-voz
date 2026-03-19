@@ -101,6 +101,7 @@ Este proyecto contiene el código y la información para comprender el espectro 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c749333b-32f1-404f-a667-e7b6cbe85e3f" width="450"/>
 </p>
+
 ## Análisis de Resultados: //Juanita
 Evalúe si existen diferencias estadísticamente significativas entre los valores de los parámetros espectrales pertenecientes a señales de voz masculinas y femeninas.
 

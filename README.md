@@ -181,6 +181,11 @@ En términos generales, los datos experimentales coinciden con los valores teór
 | Audio 6 | 8.94 |
 
 </div>
+<p align="justify">
+Para calcular la relación señal ruido (SNR), se recortó el primer fragmento de la grabación, correspondiente a un tramo donde la persona no habla y solo se percibe el ruido ambiental. Posteriormente, se realizó el cálculo del SNR, obteniendo los valores presentados en la tabla. A partir de estos datos, se obtuvo un SNR promedio de 13.24 dB.
+  
+<p align="justify">
+Este valor permite determinar los parámetros necesarios para el diseño de un filtro pasa-banda, incluyendo las constantes y las frecuencias necesarias para establecer el orden del filtro. Además, se verifica el correcto cálculo del filtro al comparar la transformada de Fourier de la señal antes y después del filtro.
 
 <div align="center">
 

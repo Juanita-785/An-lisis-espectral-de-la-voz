@@ -94,7 +94,7 @@ En los datos obtenidos se observa que las voces femeninas presentan, en general,
   <img src="https://github.com/user-attachments/assets/f841da02-c105-4bac-a051-a6d2ba0b2000""  width="300"/>
 </p>
 
-## Análisis Estadístico  //Shara
+## Análisis Estadístico
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8d1eeb9-89fe-4ef9-a1aa-014515129c44" width="450"/>
 </p>

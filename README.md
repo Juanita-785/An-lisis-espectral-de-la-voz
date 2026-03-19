@@ -6,7 +6,7 @@ Este proyecto contiene el código y la información para comprender el espectro 
 
 ## Propósito //Shara
 <p align="justify">
-
+El propósito de este laboratorio es que el estudiante aplique técnicas de análisis espectral y comprenda la importancia del cálculo de atributos en el dominio de la frecuencia dentro del procesamiento de señales, específicamente en señales de voz. Se busca que el estudiante entienda el análisis espectral como una herramienta que permite observar la distribución de la energía al descomponer una señal en sus componentes de frecuencia y amplitud. Asimismo, mediante el cálculo de parámetros de inestabilidad en señales periódicas, como el Jitter y Shimmer, junto con el análisis espectral de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la detección de posibles patologías a partir de señales de voz y reconozca su relevancia en aplicaciones propias del ámbito de la ingeniería biomédica. Además, se busca que el estudiante relacione estos parámetros con características fisiológicas y de calidad de la señal, permitiendo la interpretación de diferencias entre distintos tipos de voz.
 
 ## Metodología // Juanita
 <p align="justify">

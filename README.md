@@ -76,6 +76,8 @@ Las diferencia que se puede observar en la frecuencia fundamental se encuentra r
 En los datos obtenidos se observa que las voces femeninas presentan, en general, valores más altos de brillo y frecuencia fundamenta. De acuerdo con la literatura, esto se debe a que las cuerdas vocales femeninas suelen ser más cortas y delgadas, lo que produce vibraciones más rápidas, una mayor frecuencia fundamental y una mayor presencia de componentes de alta frecuencia, percibidas como mayor brillo. Por otro lado, en las voces masculinas, las cuerdas vocales tienden a ser más larga y gruesas, lo que genera vibraciones más lentas, una frecuencia fundamental más baja y un sonido perceptivamente más grave en comparación con las voces femeninas. 
 
 **Comportamiento de la voz en hombres y mujeres a partir de los análisis realizados.** // Juanita
+<p align="justify">
+
 
 **Importancia clínica del jitter y shimmer en el análisis de la voz.** //Juanita
 

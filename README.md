@@ -77,7 +77,7 @@ En los datos obtenidos se observa que las voces femeninas presentan, en general,
 
 **Comportamiento de la voz en hombres y mujeres a partir de los análisis realizados.** // Juanita
 <p align="justify">
-
+En base a los resultados obtenidos se puede observa como las mujeres manejan la frecuencia fundamental y el brillo de la voz mucho más alto en comparación con los hombres, sin embargo, la intensidad de energía de los hombres si es superior. Todo esto se puede atribuir a diversos factores, especialmente a las características anatómicas que diferencian ambos sexos, en el caso de los hombres debido a la testosterona su laringe crece alcanzando una longitud entre 17 y 25 mm, generando vibraciones más lentas, por ende, un tono más grave; en cambio los estrógenos de las mujeres no alteran significativamente la estructura laríngea, manteniendo una longitud aproximadamente de 12 a 17 mm, produciendo vibraciones más rápidas y agudas. Por eso mismo la intensidad de energía de los hombres da alta (su amplitud es mayor), pero su frecuencia fundamental que hace referencia a la frecuencia más baja que un sistema vibratorio u ondulatorio puede oscilar es inferior al igual que el brillo siendo este una característica que permite ver la presencia de frecuencias altas (agudos).
 
 **Importancia clínica del jitter y shimmer en el análisis de la voz.** //Juanita
 

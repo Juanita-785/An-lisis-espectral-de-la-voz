@@ -31,13 +31,13 @@ Jitter_{rel} =
 }
 \times 100
 $$
-## Shimmer absoluto
+### Shimmer absoluto
 
 $$
 Shimmer_{abs} = \frac{1}{N - 1} \sum_{i=1}^{N-1} |A_i - A_{i+1}|
 $$
 
-## Shimmer relativo (%)
+### Shimmer relativo (%)
 
 $$
 Shimmer_{rel} = 

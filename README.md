@@ -26,7 +26,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 **¿Qué diferencias se observan en la frecuencia fundamental?** //Juanita
 
-**¿Qué otras diferencias notan en términos de brillo, media o intensidad?** //Shara
+**¿Qué otras diferencias notan en términos de brillo, media o intensidad?**
 <p align="justify">
 En los datos obtenidos se observa que las voces femeninas presentan, en general, valores más altos de brillo y frecuencia fundamenta. De acuerdo con la literatura, esto se debe a que las cuerdas vocales femeninas suelen ser más cortas y delgadas, lo que produce vibraciones más rápidas, una mayor frecuencia fundamental y una mayor presencia de componentes de alta frecuencia, percibidas como mayor brillo. Por otro lado, en las voces masculinas, las cuerdas vocales tienden a ser más larga y gruesas, lo que genera vibraciones más lentas, una frecuencia fundamental más baja y un sonido perceptivamente más grave en comparación con las voces femeninas. 
 
@@ -94,7 +94,7 @@ En los datos obtenidos se observa que las voces femeninas presentan, en general,
   <img src="https://github.com/user-attachments/assets/f841da02-c105-4bac-a051-a6d2ba0b2000""  width="300"/>
 </p>
 
-## Análisis Estadístico
+## Análisis Estadístico //Shara
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8d1eeb9-89fe-4ef9-a1aa-014515129c44" width="450"/>
 </p>

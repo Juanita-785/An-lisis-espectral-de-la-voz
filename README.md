@@ -238,7 +238,10 @@ En conclusión, este laboratorio demuestra que el análisis acústico digital tr
 
 ## Discusión
 
-**¿Cómo es la frecuencia fundamental de la densidad espectral de potencia asociada a una señal de voz masculina con respecto a la que se obtiene a partir de una señal de voz femenina, mayor o menor? ¿Qué hay del valor RMS?** //Shara
+**¿Cómo es la frecuencia fundamental de la densidad espectral de potencia asociada a una señal de voz masculina con respecto a la que se obtiene a partir de una señal de voz femenina, mayor o menor? ¿Qué hay del valor RMS?**
+
+<p align="justify">
+La frecuencia fundamental observada en la densidad espectral de potencia es mayor en las voces femeninas que en las masculinas, lo cual se explica por diferencias fisiológicas, como la menor longitud y masa de las cuerdas vocales en las mujeres en comparación con los hombres. En cuanto al valor RMS, que representa la energía o potencia promedio de la señal, este depende de factores como la intensidad de la emisión vocal, la distancia al micrófono y las condiciones de grabación. En el caso de las muestras analizadas, se observa que el RMS no está directamente relacionado con el género del hablante, sino con la energía de la señal registrada.
 
 **¿Qué limitaciones plantea el uso de características como shimmer y jitter para la detección de patologías como disartrias y afasias?** 
 

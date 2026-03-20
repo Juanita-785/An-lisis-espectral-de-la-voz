@@ -214,6 +214,7 @@ La alteración de los resultados se puede explicar por una inestabilidad en la v
 
 ### Transformada de Fourier
 <p align="justify">
+Adicionalmente, al analizar la transformada de Fourier, se evidencia el correcto funcionamiento del filtro implementado, ya que la señal se presenta de manera clara y con bajo nivel de ruido, permitiendo identificar los picos fundamentales y su correspondiente dispersión energética. No obstante, dichos picos no son perfectamente definidos, lo cual es consistente con la variabilidad observada en los parámetros de Jitter y Shimmer. Finalmente, estas transformadas también reflejan diferencias fisiológicas, evidenciando una frecuencia fundamental más alta en las voces femeninas y una mayor estabilidad en las voces masculinas.
 
 ## Análisis de Resultados: 
 <p align="justify">

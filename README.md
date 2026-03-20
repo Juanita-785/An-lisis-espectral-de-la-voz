@@ -144,7 +144,7 @@ El jitter y el shimmer son pilares fundamentales del análisis acústico, los cu
   <img src="https://github.com/user-attachments/assets/f841da02-c105-4bac-a051-a6d2ba0b2000""  width="300"/>
 </p>
 
-## Análisis Estadístico //Shara
+## Análisis Estadístico
 ### Parámetros calculados
 <div align="center">
 
@@ -209,7 +209,7 @@ Este valor permite determinar los parámetros necesarios para el diseño de un f
 <p align="justify">
 Aunque los valore de Jitter y Shimmer no están establecidos de manera universal, existen algunos rangos de normalidad reportados en la literatura. El Jitter absoluto oscila entre 0.02 ms y 0.20 ms, datos que concuerdan con los valores obtenidos de manera experimental, aunque el hombre 1 presenta una ligera alteración. En el caso del Jitter relativo, se observa que el porcentaje de la mujer 1 es más elevado en comparación con los demás datos; además, al contrastarlo con la literatura, se encuentra dentro del rango de 0.2% a 1.5%.
 Al analizar el Shimmer, se observa un rango de 3.8% a 11%, valores que, al compararse con la literatura, se alejan del rango establecido (3% a 7%).
-La alteración de los resultados se puede explicar por una inestabilidad en la vibración de las cuerdas vocales, las condiciones de grabación, el tipo de voz, el tamaño de la muestra e incluso por características vocales específicas. Sin embargo, se puede observar que, en varios casos, especialmente en las mujeres, los datos se encuentran por encima del rango típico, lo que sugiere una mayor variabilidad vocal.
+La alteración de los resultados se puede explicar por una inestabilidad en la vibración de las cuerdas vocales, las condiciones de grabación, el tipo de voz, el tamaño de la muestra, características vocales específicas e incluso el acento de cada persona evaluada. Sin embargo, se puede observar que, en varios casos, especialmente en las mujeres, los datos se encuentran por encima del rango típico, lo que sugiere una mayor variabilidad vocal.
 
 
 ### Transformada de Fourier
